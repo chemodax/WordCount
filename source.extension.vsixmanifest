@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="WordCount.304bc049-3986-4f6c-8887-d1539cea4a4b" Version="0.4.0" Language="en-US" Publisher="Ivan.Z" />
+        <Identity Id="WordCount.304bc049-3986-4f6c-8887-d1539cea4a4b" Version="0.5.0" Language="en-US" Publisher="Ivan.Z" />
         <DisplayName>WordCount</DisplayName>
         <Description xml:space="preserve">Display character and word count.</Description>
         <Icon>WordCountIcon.png</Icon>
