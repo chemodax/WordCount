@@ -6,7 +6,7 @@ Simple extension for Microsoft Visula Studio to show character, word and line co
 
 # Changelog
 
-* **0.5.0** (not released)
+* **0.5.0** (07 January 2023)
   Support for Visual Studio 2022.
 
 * **0.4.0** (16 January 2021)
