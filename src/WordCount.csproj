@@ -81,7 +81,6 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.4.2119" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="stylesheet.css" />
     <Content Include="WordCount-256.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
