@@ -6,6 +6,9 @@ Simple extension for Microsoft Visula Studio to show character, word and line co
 
 # Changelog
 
+* **0.5.0** (not released)
+  Support for Visual Studio 2022.
+
 * **0.4.0** (16 January 2021)
   * Display line count. Suggested by Roman Thiel.
 
