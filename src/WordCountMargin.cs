@@ -101,7 +101,7 @@ namespace WordCount
             switch (uc)
             {
                 case UnicodeCategory.DashPunctuation:
-                    // Не считаем дефис сепаратором.
+                    // Do not count dash as separator.
                     return false;
 
                 case UnicodeCategory.ConnectorPunctuation:
