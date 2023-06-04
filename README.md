@@ -4,7 +4,7 @@ Simple extension for Microsoft Visual Studio to show character, word and line co
 
 ![WordCount-screenshot-v3.png](art/WordCount-screenshot-v3.png)
 
-# Changelog
+## Changelog
 
 * **0.5.0** (not released)
   Support for Visual Studio 2022.
