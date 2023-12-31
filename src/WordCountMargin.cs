@@ -149,8 +149,7 @@ namespace WordCount
                     bool isWhitespace = Char.IsWhiteSpace(ch);
                     bool isSeparator = IsSeparator(ch);
 
-                    if (!isWhitespace)
-                        charCount++;
+                    charCount++;
 
                     if (!isSeparator && prevSeparator)
                         wordCount++;
