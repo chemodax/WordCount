@@ -1,6 +1,6 @@
 # WordCount
 
-Simple extension for Microsoft Visula Studio to show character, word and line count.
+Simple extension for Microsoft Visual Studio to show character, word and line count.
 
 ![WordCount-screenshot-v3.png](art/WordCount-screenshot-v3.png)
 
