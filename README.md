@@ -6,6 +6,10 @@ Simple extension for Microsoft Visula Studio to show character, word and line co
 
 # Changelog
 
+* **0.6.0** (31 December 2023)
+  * Include whitespace in character count (issue #3). Suggested by
+    William Herrmann.
+
 * **0.5.0** (07 January 2023)
   Support for Visual Studio 2022.
 
