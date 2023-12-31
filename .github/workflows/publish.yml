@@ -1,10 +1,9 @@
 name: Publish Release
 
 on:
-  push:
-    branches: [ "*" ]
-  pull_request:
-    branches: [ "master" ]
+    push:
+      tags:
+        - '*'
 
 env:
   SOLUTION_FILE_PATH: WordCount.sln
